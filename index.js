@@ -7,6 +7,10 @@ function grow (name,lastname) {
 
 grow('Anny','Smith');
 
+function greet (drx) {
+  alert('My name is ' + drx);
+}
+greet ('Mario');
 
 //-----End--------------------------
 
