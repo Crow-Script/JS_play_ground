@@ -10,9 +10,11 @@ grow('Anny','Smith');
 
 //-----End--------------------------
 
+//----Number function--Start----
 function numbers(digit) {
     return digit * digit ;
 }
 
 let know_valeu = numbers (5);
 console.log (know_valeu);
+//-----End--------------------------
