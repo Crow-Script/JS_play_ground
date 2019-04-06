@@ -22,3 +22,12 @@ function numbers(digit) {
 let know_valeu = numbers (5);
 console.log (know_valeu);
 //-----End--------------------------
+
+
+
+document.addEventListener('click', artic);
+
+function artic () {
+  alert ("sooo coooold");
+}
+
