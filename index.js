@@ -1,3 +1,5 @@
+//-----Var Array------
+let lifeBlue ['hello', 'pen','rouch']
 
 //----String function--Start----
 function grow (name,lastname) {
