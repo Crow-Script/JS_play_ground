@@ -46,8 +46,15 @@ else
 
 //----------- The Loop ------------------------
 let countNumb = 1; 
-while (countNumb <= 300) {
+while (countNumb <= 300) {document.addEventListener('click', falaTu);
+
+}
   document.write("Go on" countNumb );
        countNumb ++; 
        }
+//-----click Function-----
+document.addEventListener('click', falaTu);
+function falaTu() {
+  document.write('Obrigado!');
+}
 
