@@ -1,5 +1,12 @@
 //-----Var Array------
-let lifeBlue ['hello', 'pen','rouch']
+let pets = [
+  { name: "Meowsalot", spicies: "cat", age: 5 },
+  { name: "Barklord", spicies: "dog", age: 4 },
+  { name: "dr8legs", spicies: "Tarantula", age: 3 }
+];
+
+pets.push({ name: "Baby", spicies: "pig", age: 12 });
+console.log(pets);
 
 //----String function--Start----
 function grow (name,lastname) {
