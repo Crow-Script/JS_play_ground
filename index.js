@@ -33,3 +33,11 @@ function artic () {
   alert ("sooo coooold");
 }
 
+//-----if statement------------------
+let numOrange = 39;
+if (numOrange >20 ) {
+  document.write('Thats a good Joy!!');
+} 
+
+//-----------------------------------
+
