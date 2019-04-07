@@ -38,6 +38,11 @@ let numOrange = 39;
 if (numOrange >20 ) {
   document.write('Thats a good Joy!!');
 } 
+//---and the else part------
+else
+  {
+    document.write('Not good Maan....')
+  }
 
 //-----------------------------------
 
