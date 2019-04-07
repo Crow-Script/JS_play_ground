@@ -44,5 +44,10 @@ else
     document.write('Not good Maan....')
   }
 
-//-----------------------------------
+//----------- The Loop ------------------------
+let countNumb = 1; 
+while (countNumb <= 300) {
+  document.write("Go on" countNumb );
+       countNumb ++; 
+       }
 
