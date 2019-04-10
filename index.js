@@ -63,12 +63,13 @@ while (countNumb <= 300) {document.addEventListener('click', falaTu);
        }
        
        
-       //-----The Cool Loop-----
+  //-----The Cool Loop-----
 let colorBox= ['Red','Blue','Pink','Orange'];
 
 colorBox.forEach (theBox)
 
 function theBox (color) {
+  //----writing text in the page------///
   document.write ('The color ' + color + ' is in the Box!</br>')
 }
 
