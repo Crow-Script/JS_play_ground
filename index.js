@@ -32,7 +32,7 @@ let know_valeu = numbers (5);
 console.log (know_valeu);
 //-----End--------------------------
 
-//-----function2------
+//-----Function 2------
 
 document.addEventListener('click', artic);
 
@@ -63,7 +63,7 @@ while (countNumb <= 300) {document.addEventListener('click', falaTu);
        }
        
        
-  //-----The Cool Loop-----
+//-----The Cool Loop-----
 let colorBox= ['Red','Blue','Pink','Orange'];
 
 colorBox.forEach (theBox)
