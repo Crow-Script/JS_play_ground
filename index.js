@@ -7,7 +7,7 @@ let pets = [
 
 pets.push({ name: "Baby", spicies: "pig", age: 12 });
 console.log(pets);
-
+//-----End----------
 //----String function--Start----
 function grow (name,lastname) {
     console.log( 'Hey '+ name + ' '+lastname );
@@ -32,13 +32,15 @@ let know_valeu = numbers (5);
 console.log (know_valeu);
 //-----End--------------------------
 
-
+//-----function2------
 
 document.addEventListener('click', artic);
 
 function artic () {
   alert ("sooo coooold");
+  
 }
+//-----End----------
 
 //-----if statement------------------
 let numOrange = 39;
