@@ -1,4 +1,4 @@
-//-----Var Array------
+//----------Var Array------
 let pets = [
   { name: "Meowsalot", spicies: "cat", age: 5 },
   { name: "Barklord", spicies: "dog", age: 4 },
