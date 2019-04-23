@@ -21,7 +21,7 @@ function greet (drx) {
 }
 greet ('Mario');
 
-//-----End--------------------------
+//---------End--------------------------
 
 //----Number function--Start----
 function numbers(digit) {
