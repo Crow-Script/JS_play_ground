@@ -40,7 +40,7 @@ function artic () {
   alert ("sooo coooold");
   
 }
-//------------------End----------
+//------------------End--------------
 
 //-----if statement------------------
 let numOrange = 39;
