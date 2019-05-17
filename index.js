@@ -1,4 +1,4 @@
-//--------------Var Array---------------
+//--------------Var Array----------------
 let pets = [
   { name: "Meowsalot", spicies: "cat", age: 5 },
   { name: "Barklord", spicies: "dog", age: 4 },
@@ -7,7 +7,7 @@ let pets = [
 
 pets.push({ name: "Baby", spicies: "pig", age: 12 });
 console.log(pets);
-//---------------End---------------
+//---------------End----------------
 //----String function--Start----
 function grow (name,lastname) {
     console.log( 'Hey '+ name + ' '+lastname );
