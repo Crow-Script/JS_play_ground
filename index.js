@@ -75,7 +75,7 @@ function theBox (color) {
 
 
 
-//-----click Function-----
+//-----------click Function----------
 document.addEventListener('click', falaTu);
 function falaTu() {
   document.write('Obrigado!');
