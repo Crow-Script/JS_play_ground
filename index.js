@@ -8,7 +8,7 @@ let pets = [
 pets.push({ name: "Baby", spicies: "pig", age: 12 });
 console.log(pets);
 //---------------------End-------------------
-//-------------String function--Start----
+//-------------String function--Start-------------
 function grow (name,lastname) {
     console.log( 'Hey '+ name + ' '+lastname );
 
