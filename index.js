@@ -30,7 +30,7 @@ function numbers(digit) {
 
 let know_valeu = numbers (5);
 console.log (know_valeu);
-//------------------End-----------------------
+//------------------End---------------------
 
 //-----Function 2------
 
